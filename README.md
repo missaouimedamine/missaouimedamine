@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
+🚀 Data Engineer | AI Enthusiast | Open-Source Contributor  
 
-<!--
-**MISSAOUI-MOHAMED-AMINE/MISSAOUI-MOHAMED-AMINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Skills
+- Python, Java, Scala
+- Machine Learning (Scikit-learn, TensorFlow, YOLO)
+- Data Engineering (Apache Spark, Kafka, Airflow)
+- Cloud (Azure, AWS)
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+- [🌿 AgricareAI](https://github.com/yourusername/agricareAI) - Plant disease detection app using YOLOv8.
+- [📊 Power BI Weather Dashboard](https://github.com/yourusername/weather-dashboard) - Real-time weather analysis with Power BI and Selenium.
+- [📈 Sentiment Analysis Pipeline](https://github.com/yourusername/sentiment-pipeline) - Streaming sentiment analysis using Spark and Kafka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile) 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/yourusername)
