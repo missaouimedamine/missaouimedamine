@@ -38,14 +38,14 @@ A deep learning model that detects and classifies facial emotions from images.
 ---
 
 ## 📊 **GitHub Stats**
-![Missaoui Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MISSAOUI-MOHAMED-AMINE&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MISSAOUI-MOHAMED-AMINE&layout=compact&theme=radical)
+![Missaoui Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=missaouimedamine&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missaouimedamine&layout=compact&theme=radical)
 
 ---
 
 ## 📫 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/missaoui-mohamed-amine/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/MISSAOUI-MOHAMED-AMINE)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/missaouimedamine)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:missaouimohamedamine7@gmail.com)  
 
 ---
