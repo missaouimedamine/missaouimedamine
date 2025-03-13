@@ -15,23 +15,23 @@ I am a passionate **Data Engineer** and **Machine Learning Practitioner** with e
 ---
 
 ## 📂 **Featured Projects**
-### 🚑 **[HealthCare-AI-Platform](https://github.com/yourusername/HealthCare-AI-Platform)**
+### 🚑 **[HealthCare-AI-Platform](https://github.com/missaouimedamine/HealthCare-AI-Platform)**
 A smart healthcare platform leveraging AI to provide medical insights and predictions.  
 🔹 **Technologies**: Python, TensorFlow, Flask, Streamlit  
 
-### 🔄 **[MLOps: Loan Approval Pipeline](https://github.com/yourusername/Mlops)**
+### 🔄 **[MLOps: Loan Approval Pipeline](https://github.com/missaouimedamine/Mlops)**
 Built an **end-to-end MLOps pipeline** for loan approval classification, automating model deployment and monitoring.  
 🔹 **Technologies**: Apache Airflow, MLflow, Docker, Kubernetes  
 
-### 🌾 **[AgriCareAI](https://github.com/yourusername/AgriCareAi)**
+### 🌾 **[AgriCareAI](https://github.com/missaouimedamine/AgriCareAi)**
 An intelligent **agricultural assistance platform** that detects plant diseases using deep learning.  
 🔹 **Technologies**: YOLOv8, Flask, SQLite  
 
-### 🎥 **[YouTube ChatBot](https://github.com/yourusername/Youtube-ChatBot)**
+### 🎥 **[YouTube ChatBot](https://github.com/missaouimedamine/Youtube-ChatBot)**
 A chatbot designed to analyze and respond to **YouTube video comments** for sentiment analysis.  
 🔹 **Technologies**: Hugging Face, LLaMA, Selenium  
 
-### 😊 **[Facial Emotion Recognition](https://github.com/yourusername/Facial-emotion-Recognition)**
+### 😊 **[Facial Emotion Recognition](https://github.com/missaouimedamine/Facial-emotion-Recognition)**
 A deep learning model that detects and classifies facial emotions from images.  
 🔹 **Technologies**: OpenCV, CNN, PyTorch  
 
