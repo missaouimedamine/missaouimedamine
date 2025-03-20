@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Missaoui Mohamed Amine  
-🚀 Data Engineer | AI & MLOps Enthusiast 
+🚀 Data Science Engineer | AI & Data Enthusiast 
 
 I am a passionate **Data Engineer** and **Machine Learning Practitioner** with expertise in **MLOps, Deep Learning, and AI-powered solutions**. I enjoy building scalable AI pipelines and intelligent applications to solve real-world problems.
 
