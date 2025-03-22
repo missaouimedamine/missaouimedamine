@@ -4,10 +4,7 @@
 I am a passionate **Data Engineer** and **Machine Learning Practitioner** with expertise in **MLOps, Deep Learning, and AI-powered solutions**. I enjoy building scalable AI pipelines and intelligent applications to solve real-world problems.
 
 ---
-<p>
-  <span style="background-color: green; color: white; padding: 5px 10px; border-radius: 5px;">hafedh</span>
-  <span style="background-color: black; color: white; padding: 5px 10px; border-radius: 5px;">@not so lain</span>
-</p>
+
 
 ## 🔥 **Technical Skills**
 - **Programming**: Python, Scala, SQL, Java, C, R  
