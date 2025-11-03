@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Missaoui Mohamed Amine  
-🚀 Data Science Engineer | AI & Data Enthusiast 
+<h3>🤖 AI & Data Engineer | GenAI & NLP Specialist | LLM Agent Architect 🤖</h3>
 
+[![Portfolio](https://img.shields.io/badge/🚀_Interactive_Portfolio-Visit_Now-58a6ff?style=for-the-badge&labelColor=0d1117)](https://missaouimedamine.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/missaoui-mohamed-amine/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:missaouimuhamedamine@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/h9-tec](https://github.com/missaouimedamine))
+
+<img src="https://komarev.com/ghpvc/?username=missaouimedamine&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+
+</div>
 I am a passionate **Data Engineer** and **Machine Learning Practitioner** with expertise in **MLOps, Deep Learning, and AI-powered solutions**. I enjoy building scalable AI pipelines and intelligent applications to solve real-world problems.
 
 ---
