@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=missaouimedamine&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
 
-</div>
+
 I am a passionate **Data Engineer** and **Machine Learning Practitioner** with expertise in **MLOps, Deep Learning, and AI-powered solutions**. I enjoy building scalable AI pipelines and intelligent applications to solve real-world problems.
 
 ---
