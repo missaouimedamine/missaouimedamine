@@ -45,9 +45,10 @@ A deep learning model that detects and classifies facial emotions from images.
 🔹 **Technologies**: OpenCV, CNN, PyTorch  
 
 ---
+## 📊 **GitHub Stats (This Year)**
 
-## 📊 **GitHub Stats**
-![Missaoui Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=missaouimedamine&show_icons=true&theme=radical)  
+![Missaoui Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=missaouimedamine&show_icons=true&theme=radical&range=last_year)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missaouimedamine&layout=compact&theme=radical)
 
 ---
