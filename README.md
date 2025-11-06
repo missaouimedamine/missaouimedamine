@@ -47,7 +47,7 @@ A deep learning model that detects and classifies facial emotions from images.
 ---
 ## 📊 **GitHub Stats (This Year)**
 
-![Missaoui Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=missaouimedamine&show_icons=true&theme=radical&range=last_year)
+![Missaoui Mohamed Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=missaouimedamine&show_icons=true&theme=radical&range=this_year)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missaouimedamine&layout=compact&theme=radical)
 
